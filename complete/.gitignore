@@ -1,0 +1,16 @@
+target
+.idea
+*.iml
+*.log
+*spring-shell*
+*.attach_pid*
+*.project
+*.classpath
+*.factorypath
+*.settings
+*target
+*bin
+*logs
+*.springBeans
+
+.DS_Store
